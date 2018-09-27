@@ -1,4 +1,4 @@
-# hello-world
+# learngit
 just another repository
 
 I love freedom
